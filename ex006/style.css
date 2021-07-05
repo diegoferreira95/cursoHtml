@@ -1,0 +1,34 @@
+h1{
+    
+    font-family: Arial;
+    font-size: 50pt;
+    color: white;
+   
+    /* centralizar o texto */
+    text-align: center;
+    background: rgb(2, 36, 11);
+    
+    
+}
+
+h2 {
+    font-family: georgia;
+    font-size: 30pt;
+    color: blue;
+}
+
+h3{
+    font-family: tahoma;
+    font-size: 15pt;
+    color: green;
+
+}
+
+h4{
+    font-family: cambria;
+    font-size: 10pt;
+    color: goldenrod;
+
+}
+
+
